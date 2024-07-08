@@ -1,8 +1,8 @@
-API_ID       = 
-API_HASH     = ""
-BOT_TOKEN    = ""
-SESSION      = ""
-DATABASE_URI = ""
-LOG_CHANNEL  =
-ADMIN        = 1255023013
-CHANNEL      = "RahulReviews"
+API_ID       = 22642372
+API_HASH     = "cda9f2e2f1c28370447a79c3e39cbe88"
+BOT_TOKEN    = "7433957362:AAHH0Tq59AvdLbUtnhc7zTEXJr9WwiymByE"
+SESSION      = "1BVtsOLEBu4lWJS6uinX6HZYBpAgVSkXTrt5akwMbcCsNDMWoqSCxN86d-t473ZEdjpO_As_5ubxAsH487iTB7fUl6PrmE1GAtSG0-wCiRvVTZmXizFe4c_-Zw-rrbezSqB6HxRnYthikJXZ-kYGRIEIpr3VO3NI6ECY__-C8xRhh3A7ApO0IOupMgMzrr7FNbxx8pmVYwy0PKzTqfNYYgbCAnQwcW8rft2S_RBL-sihtNQUxEPYrfIrkQTHIdM2owX76g-SGQ3IDB-4_nh2-Nt-TcqCwLj0gimMPkyaSeCJBLFngw0PHw4fJsnLZRCaPay4pIYZqSW8GvS0U7JLmRvpxcJa-Wko="
+DATABASE_URI = "mongodb+srv://strong:strong@cluster0.ix7usa3.mongodb.net/?retryWrites=true&w=majority"
+LOG_CHANNEL  = -1002225559950
+ADMIN        = 6331847574
+CHANNEL      = "ROCKERSBACKUP"
